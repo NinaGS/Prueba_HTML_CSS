@@ -8,7 +8,7 @@ body{
 }
 
 .jumbotron{
-	background-image: url("nino_fono.jpg");
+	background-image: url("../images/nino_fono.jpg");
 	background-size: cover;
 	color: white;
 }
@@ -120,6 +120,11 @@ body{
     left: 0;
     width: 100%;
     height: 100%;
+}
+
+.mapa{
+	width: 50%;
+	margin-left: 25%;
 }
 
 /*página NOSOTROS*/
