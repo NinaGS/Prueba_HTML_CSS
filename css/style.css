@@ -12,6 +12,7 @@ body{
 	background-image: url("../images/nino_fono.jpg");
 	background-size: cover;
 	color: white;
+	border-radius: 5px;
 }
 
 
@@ -126,6 +127,10 @@ body{
 .mapa{
 	width: 50%;
 	margin-left: 25%;
+}
+
+.ganadores{
+	padding-bottom: 30px;
 }
 
 /*página NOSOTROS*/
