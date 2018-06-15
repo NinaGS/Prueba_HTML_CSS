@@ -3,37 +3,53 @@ body{
 
 }
 .container{
-	width: 80%;
+	width: 100%;
 	background-color: #21688c;
 
-}
 
+
+}
+.fixed{
+	position: fixed;
+	top:0;
+	z-index: 1;
+	width: 100%;
+
+}
 .jumbotron{
 	background-image: url("../images/nino_fono.jpg");
 	background-size: cover;
 	color: white;
 	border-radius: 5px;
+	margin-top: 100px;
+
 }
 
 
-.logo{
-	height: 200px;
+.img-fluid{
+	width: 15%;
 	float: left;
-	margin-right: 80px;
-	margin-left: 50px;
-	padding-bottom: 10px;
+	margin-right: 50px;
+	margin-left: 300px;
+	padding: 60px 0px 10px 0px;
 }
 
 .fundación{
-	padding-top: 40px;
+	padding-top: 90px;
+
 }
 .fundación h1{
 	color: white;
+	
 }
 
 .menu{
-	padding: 20px 0px 20px 0px;
-	width: 83%;
+	padding: 20px 60px 10px 60px;
+	width: 100%;
+	background-color: #21688c;
+
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
 }
 .nav-link{
     color: #f2f4f7;
@@ -94,6 +110,7 @@ body{
 
 .container-footer{
 	width: 50%;
+
 }
 
 .contacto{
@@ -144,6 +161,7 @@ body{
 .texto_nosotros{
 	width: 50%;
 	margin-left: 25%;
+	
 }
 
 /*página NOTICIAS*/
@@ -152,6 +170,9 @@ body{
 	margin-left: 25%;
 	border-radius: 10px;
 	margin-bottom: 30px;
+	margin-top:30px;
+}
 
-
+.cuerpo3{
+	margin-top: 100px;
 }

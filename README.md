@@ -1,2 +1,2 @@
 
-https://github.com/NinaGS/Prueba_HTML_CSS.git 
+ https://ninags.github.io/Prueba_HTML_CSS/. 
